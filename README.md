@@ -6,6 +6,7 @@ A indie project that uses gamification approach to help children and music begin
 
 ## That's how the learning process looks:
 the main character tells you the a bit of theary and helps you memorize the theory
+
 https://github.com/MichaelLeo-code/Music-Theory-Game/assets/114170504/b3b0a781-4325-4420-a395-c710e870c1ac
 
 ## And that's freeplay mode, you can either simply play notes:
